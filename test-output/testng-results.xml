@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-30T11:45:10 SGT" name="Suite" finished-at="2022-09-30T11:45:15 SGT" duration-ms="5653">
+    <groups>
+    </groups>
+    <test started-at="2022-09-30T11:45:10 SGT" name="Test" finished-at="2022-09-30T11:45:15 SGT" duration-ms="5653">
+      <class name="handsonTestNG.testNGHANDSON">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:handsonTestNG.testNGHANDSON@64d2d351]" started-at="2022-09-30T11:45:10 SGT" name="beforeMethod" finished-at="2022-09-30T11:45:10 SGT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:handsonTestNG.testNGHANDSON@64d2d351]" started-at="2022-09-30T11:45:10 SGT" name="f" finished-at="2022-09-30T11:45:15 SGT" duration-ms="5235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:handsonTestNG.testNGHANDSON@64d2d351]" started-at="2022-09-30T11:45:15 SGT" name="afterMethod" finished-at="2022-09-30T11:45:15 SGT" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- handsonTestNG.testNGHANDSON -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
